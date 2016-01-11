@@ -8,3 +8,15 @@ body {
   width: 960px;
   margin: 20px auto 20px auto;
 }
+img {
+	width:250px;
+}
+h1 {
+	color: red;
+}
+#video {
+	color: green;
+}
+.heading {
+	color: blue;
+}
