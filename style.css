@@ -4,15 +4,14 @@ body {
   background-image: url(parchment.jpg);
   background-repeat: repeat;
 }
-#wrapper {
-  width: 960px;
-  margin: 20px auto 20px auto;
-}
 img {
 	width:250px;
 }
 h1 {
 	color: red;
+}
+#intro {
+	text-align: center;
 }
 #video {
 	color: green;
