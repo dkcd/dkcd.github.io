@@ -10,7 +10,7 @@ img {
 h1 {
 	color: red;
 }
-#intro {
+.intro {
 	text-align: center;
 }
 #video {
