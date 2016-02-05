@@ -21,3 +21,11 @@ body {
   padding-left:23px;
   padding-right:23px;
 }
+
+.dropdown-menu li:hover .sub-menu {
+    visibility: visible;
+}
+
+.dropdown:hover .dropdown-menu {
+    display: block;
+}
